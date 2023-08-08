@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Home/IdeaProjects/PageObjectModel1/src/main/java/tests/DropdownTest.java"><classes><class name="tests.DropdownTest"><methods><include name="selectByValueTest"/><include name="selectByVisibleTextTest"/><include name="selectByIndexTest"/><include name="example"/></methods></class></classes></test></suite>
